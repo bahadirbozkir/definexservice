@@ -1,0 +1,12 @@
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.csprojAssemblyReference.cache
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.AssemblyInfoInputs.cache
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.AssemblyInfo.cs
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.csproj.CoreCompileInputs.cache
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\bin\Debug\netcoreapp3.1\DefinexService.BL.deps.json
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\bin\Debug\netcoreapp3.1\DefinexService.BL.dll
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\bin\Debug\netcoreapp3.1\DefinexService.BL.pdb
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\bin\Debug\netcoreapp3.1\DefinexService.DAL.dll
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\bin\Debug\netcoreapp3.1\DefinexService.DAL.pdb
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.csproj.CopyComplete
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.dll
+C:\Users\bahadir.bozkir\source\repos\DefinexService\DefinexService.BL\obj\Debug\netcoreapp3.1\DefinexService.BL.pdb
